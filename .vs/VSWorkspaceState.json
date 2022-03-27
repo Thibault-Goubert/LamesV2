@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LamesV2.Application"
+    "\\LamesV2"
   ],
-  "SelectedNode": "\\LamesV2.Application\\MainWindow.xaml",
+  "SelectedNode": "\\LamesV2\\LamesV2.Client.sln",
   "PreviewInSolutionExplorer": false
 }
