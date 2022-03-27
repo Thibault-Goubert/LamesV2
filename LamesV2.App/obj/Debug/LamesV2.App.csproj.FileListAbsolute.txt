@@ -1,0 +1,16 @@
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\bin\Debug\LamesV2.App.exe.config
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\bin\Debug\LamesV2.App.exe
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\bin\Debug\LamesV2.App.pdb
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App.csproj.AssemblyReference.cache
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\MainWindow.g.cs
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\App.g.cs
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App_MarkupCompile.cache
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App_MarkupCompile.lref
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\MainWindow.baml
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App.g.resources
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App.Properties.Resources.resources
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App.csproj.GenerateResource.cache
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App.csproj.CoreCompileInputs.cache
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App.exe
+C:\Users\goube\source\repos\LamesV2\LamesV2.App\obj\Debug\LamesV2.App.pdb
